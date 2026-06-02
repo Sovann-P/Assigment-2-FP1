@@ -25,3 +25,9 @@ CRM systems solve many different business problems especially from healthcare, r
 # What are the major modules found in a CRM?
 
 Many CRM systems are built around a couple of different major modules. These modules help organizations manage things like customers and business processes. One module is contacts and that essentially stores different information about customers and organizations. Another module is accounts which stores things such as company name, website, revenue, etc. Customer support tickets is also another module which stores things like ticket numbers and customers that are linked to the ticket.
+
+---
+
+#Reflection 
+
+Claude generated most of the responses. For the most part, it was complete. However, I had to dig a little deeper to get more understandable answers. I verified the information using the references that it referenced. The results were pretty trustworthy.
