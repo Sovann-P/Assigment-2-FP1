@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ZxT-R7AqJTDAnevttUFw">
+    <mxGraphModel dx="1378" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Browser" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Front-end Layer&lt;div&gt;HTML&lt;/div&gt;&lt;div&gt;CSS&lt;/div&gt;&lt;div&gt;JS&lt;/div&gt;&lt;div&gt;BootStrap&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="205" x="267.5" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHP Application Layer&lt;div&gt;Authentication&lt;/div&gt;&lt;div&gt;Contacts&lt;/div&gt;&lt;div&gt;Leads&lt;/div&gt;&lt;div&gt;Reports&lt;/div&gt;&lt;div&gt;Tasks&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="285" x="227.5" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="MySQL Database&lt;div&gt;Users&lt;/div&gt;&lt;div&gt;Leads&lt;/div&gt;&lt;div&gt;Tasks&lt;/div&gt;&lt;div&gt;Contacts&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="130" x="305" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="100" as="sourcePoint" />
+            <mxPoint x="369.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="369.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Idoov1ur4lX8qwQxFIEY-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="460" as="sourcePoint" />
+            <mxPoint x="369.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
